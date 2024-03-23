@@ -1,0 +1,2 @@
+# cli-calculater
+simple calculater
